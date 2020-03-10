@@ -1,0 +1,6 @@
+database:
+    host: localhost
+    port: 5432
+    username: preg_care_user
+    password: password
+    databaseName: preg_care_db
